@@ -4,6 +4,7 @@ OVERVIEW
 This repository contains an Excel Dashboard that utilizes various advanced Excel tools such as Pivot Tables, Slicers, VLOOKUP, and more. The dashboard is designed to present data in an interactive and visually appealing manner, allowing users to gain valuable insights and make data-driven decisions.
 
 FEATURES
+
 Pivot Tables: The dashboard leverages Pivot Tables to summarize and analyze large datasets effectively. Users can easily change the layout of the data and perform on-the-fly calculations, making it a powerful tool for data exploration.
 
 Slicers: Slicers provide an intuitive way to filter and segment data in the dashboard. Users can slice and dice data with a click, allowing them to focus on specific aspects and drill down into the details.
